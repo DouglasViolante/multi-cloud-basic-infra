@@ -1,22 +1,22 @@
 
 # Multi-Cloud Basic Infra
 
-    Another project written with Terraform exclusively for educational purposes. 
+Another project written with Terraform exclusively for educational purposes. 
 
-    For now, only AWS environment can be emulated through LocalStack tool.
+For now, only AWS environment can be emulated through LocalStack tool.
 
 ## Third Party Libs and Tools
 
-    - [Terraform](https://www.terraform.io/)
-    - [LocalStack](https://docs.localstack.cloud)
+- [Terraform](https://www.terraform.io/)
+- [LocalStack](https://docs.localstack.cloud)
 
 ## Todo
 
-    1. Add AWS Security Groups
-    2. Add AWS Route Tables
-    3. Start AWS EKS Infra
-    4. Add Azure Basic Infra
-    5. Add GCP Basic Infra
+1. Add AWS Security Groups
+2. Add AWS Route Tables
+3. Start AWS EKS Infra
+4. Add Azure Basic Infra
+5. Add GCP Basic Infra
 
 ## How to Run
 
